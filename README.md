@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![maard profile views](https://u8views.com/api/v1/github/profiles/107768/views/day-week-month-total-count.svg)](https://u8views.com/github/maard)
+
 <!--
 **maard/maard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
